@@ -42,7 +42,7 @@ pkg update && pkg upgrade -y
 
 git clone https://github.com/yourusername/termux-toolkit-pro.git
 
-cd termux-toolkit-pro
+cd Netsploit-Pro 
 
 chmod +x toolkit.py
 
