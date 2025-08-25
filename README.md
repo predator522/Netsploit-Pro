@@ -40,7 +40,7 @@ It also provides learning resources for Linux, networking, Python, and ethical h
 ```bash
 pkg update && pkg upgrade -y
 
-git clone https://github.com/yourusername/termux-toolkit-pro.git
+git clone https://github.com/predator522/Netsploit-Pro.git
 
 cd Netsploit-Pro 
 
